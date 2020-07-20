@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[32,)"
+issueTrackerURL="https://github.com/DeflatedPickle/DontSpawnThat/issues"
+[[mods]]
+modId="dontspawnthat"
+version="${file.jarVersion}"
+displayName="Don't Spawn That"
+displayURL="https://github.com/DeflatedPickle/DontSpawnThat"
+logoFile="logo.png"
+credits="Forge, DeflatedPickle"
+authors="DeflatedPickle"
+description='''
+    Configurably stops mobs from spawning.
+'''
